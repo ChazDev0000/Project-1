@@ -1,0 +1,20 @@
+.school-navbar {
+    background-color: #333;
+    padding: 10px;
+}
+
+.school-navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.school-navbar li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.school-navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
